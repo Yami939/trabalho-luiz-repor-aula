@@ -1,3 +1,4 @@
+#teste
 print ('INFORMAÇÕES USUARIO')
 
 print ('Olá Usuario, poderia informe seu nome:')
